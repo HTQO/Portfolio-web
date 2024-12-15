@@ -178,18 +178,18 @@ a:hover {
 }
 
 #main-logo img {
-    width: 600px; /* Pas de breedte van het logo in de main sectie aan */
+    width: 600px; 
     height: 500px;
-    margin-bottom: 20px; /* Voeg ruimte toe onder het logo */
+    margin-bottom: 20px; 
     display: block;
     margin-left: 550px;
-    margin-right: 50px; /* Centreer het logo horizontaal */
+    margin-right: 50px; 
 }
 
 #mapid {
-    height: 400px;  /* Zorg dat de kaart een vaste hoogte heeft */
-    width: 80%;     /* Stel een breedte in (bijv. 80% van de pagina) */
-    margin: 20px auto; /* Centreer de kaart op de pagina */
-    border: 2px solid #2C3E50; /* Optioneel: Voeg een rand toe voor zichtbaarheid */
-    position: relative; /* Zorg dat de kaart binnen zijn container blijft */
+    height: 400px;  
+    width: 80%;    
+    margin: 20px auto; 
+    border: 2px solid #2C3E50; 
+    position: relative; 
 }   
